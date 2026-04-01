@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    background: #000;
+}
+
+@font-face {
+    font-family: 'KDWilliam';
+    src: url('../fonts/KDWilliam-Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'KharkivTone';
+    src: url('../fonts/KharkivTone.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
