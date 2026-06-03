@@ -16,3 +16,16 @@ body {
     font-weight: 400;
     font-style: normal;
 }
+
+@font-face {
+    font-family: 'KyivType';
+    src: url('../fonts/KyivType-VariableGX/KyivTypeSans-VarGX.ttf') format('truetype');
+    font-weight: 400 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KyivType';
+    src: url('../fonts/KyivType-VariableGX/KyivTypeTitling-VarGX.ttf') format('truetype');
+    font-weight: 500 700;
+    font-style: normal;
+}
